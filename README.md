@@ -1,4 +1,4 @@
-# Emotion Detection Web Application
+# Emotion Detector Web Application
 
 A full-stack web application built with Python and Flask that analyzes user-submitted text to detect underlying emotional tones (anger, disgust, fear, joy, and sadness) and identifies the dominant emotion using the IBM Watson Natural Language Processing (NLP) API.
 
