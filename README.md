@@ -49,8 +49,8 @@ A full-stack web application built with Python and Flask that analyzes user-subm
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/emotion-detection-app.git
-   cd emotion-detection-app
+   git clone https://github.com/YOUR_GITHUB_USERNAME/emotion-detector-app.git
+   cd emotion-detector-app
    ```
 
 2. **Install required packages:**
